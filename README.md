@@ -1,5 +1,5 @@
 # TLD JET-16 Airport Tractor
-This model of vehicle is a prototype of present TLD JET-16, eletric powered baggage tractor that designed for service on airports. Final appereance is a little bit difference.
+This model of vehicle is a prototype of present TLD JET-16, eletric powered baggage tractor that designed for service on airports. Final appearance is a little bit difference.
 https://www.tld-group.com/products/baggage-tractors/jet-16/
 
 In January 2016 when I find a new job I got one month term contract to create 3D welded assembly of small airport vehicle from metal sheets. The submitter was IMPACT INDUSTRY BRNO, a.s., small czech manufacturing company with around 150 employees. They obtained a order to help a R&D centre of TLD with development as build a verification sample of welded chassis. My main task was create 3D CAD data in Solid Works  for next processing as NC code for laser cutting machine or  roll forming machine. The original documentation by TLD was based just on 2D drawing in pdf format. During my effort I found several problems as collisions and deviation of required tolerance. By this, I had to make several upgrade suggestions and consulted theses with TLD.
