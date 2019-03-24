@@ -7,8 +7,8 @@ In January 2016 when I find a new job I got one month term contract to create 3D
 The TLD is french company who deals with development and manufacturing ground vehicles and equipment for airports, as loaders, ground power unit, belt loaders for suitcases, trailers and baggage tractors.
 
 <p float="left">
-  <img src="/Photo/TLD_car_1.PNG" width="700" />
-  <img src="/Photo/TLD_car_2.PNG" width="700" /> 
-  <img src="/Photo/TLD_car_3.PNG" width="700" />
-  <img src="/Photo/TLD_car_4.PNG" width="700" />
+  <img src="/Photo/TLD_car_1.PNG" width="400" />
+  <img src="/Photo/TLD_car_2.PNG" width="400" /> 
+  <img src="/Photo/TLD_car_3.PNG" width="400" />
+  <img src="/Photo/TLD_car_4.PNG" width="400" />
 </p>
