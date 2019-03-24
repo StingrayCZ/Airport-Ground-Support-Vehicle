@@ -1,4 +1,4 @@
-# TLD JET-16 Electric Baggage/Cargo Tow Tractor
+# TLD JET-16 Airport Tractor
 This model of vehicle is a prototype of present TLD JET-16, eletric powered baggage tractor. Final appereance is a little bit difference.
 https://www.tld-group.com/products/baggage-tractors/jet-16/
 
