@@ -8,7 +8,7 @@ The TLD is french company who deals with development and manufacturing ground ve
 
 <p float="left">
   <img src="/Photo/TLD_car_1.PNG" width="400" />
-  <img src="/Photo/Tractor_Real.JPG" width="400" /> 
+  <img src="/Photo/Tractor_Real.jpg" width="400" /> 
 </p>
   
 ## Sheet metal flat pattern
